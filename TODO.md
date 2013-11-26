@@ -9,3 +9,5 @@
 * Create basic Vagrant settings
 * Install PHPUnit
 * Figure out method for upgrading to Laravel 4.1
+* Add package to Tower
+* Remove 'vendor' folder to .gitignore
